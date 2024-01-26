@@ -1,1 +1,2 @@
-# ML-experiments
+.\venv\Scripts\activate
+py main.py
