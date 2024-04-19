@@ -29,4 +29,7 @@ class DDQN(nn.Module):
 	def __init__(self):
 		super(DDQN, self).__init__()
 
+	def forward(self, x):
+		pass
+
 # /imagine asdfasdf
